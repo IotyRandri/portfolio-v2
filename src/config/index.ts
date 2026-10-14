@@ -30,8 +30,8 @@ export const SITE_CONTENT: SiteContent = {
     specialty: "Web & Mobile Developer, Cybersecurity Enthusiast",
     summary:
       "Developer currently based in Antananarivo, Madagascar. \n" +
-      "I specialize in web application development, whether that is the front-end or the back-end, but I also can handle mobile, as well as application maintenance. \n" +
-      "I am also interested in everything that is related to cybersecurity or related to Unix/Linux as well.",
+      "I specialize in web application development, whether front-end or back-end, although I can also handle mobile development, as well as application maintenance. \n" +
+      "I halso ave an interest in everything that is related to cybersecurity or related to Unix/Linux as well.",
     email: "randrianarivoioty@gmail.com",
   },
   experience: [
