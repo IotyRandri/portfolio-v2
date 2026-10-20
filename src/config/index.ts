@@ -30,8 +30,8 @@ export const SITE_CONTENT: SiteContent = {
     specialty: "Web & Mobile Developer, Cybersecurity Enthusiast",
     summary:
       "Developer currently based in Antananarivo, Madagascar. \n" +
-      "I specialize in web application development, whether front-end or back-end, although I can also handle mobile development, as well as application maintenance. \n" +
-      "I halso ave an interest in everything that is related to cybersecurity or related to Unix/Linux as well.",
+      "I specialize in web application development, whether front-end or back-end, although I can also handle mobile development, as well as application maintenance and database management. \n" +
+      "I also have an interest in everything that is related to cybersecurity or related to Unix/Linux as well.",
     email: "randrianarivoioty@gmail.com",
   },
   experience: [
@@ -41,8 +41,8 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "April 2026",
       endDate: "Until Today",
       summary: [
-        "I assisted and developed a mobile application using Flutter, allowing it to be deployed on both Android and iOS with a single codebase. This reduced development time by 50% and maintenance costs by 30%, facilitating a consistent user experience on both platforms.",
-        "I integrated biometric authentication and data encryption, significantly improving the security of user data. This implementation resulted in a 40% increase in user trust and a 25% reduction in unauthorized access attempts.",
+        "I assisted and developed a web application for a bank, to help keep track of the loans they lend to their clients. From its conception, implementation, to its deployment and maintenance, I assisted and participated in all software development cycles. On the front-end, I used React.js, on the back-end Node.js and Prisma, and PostgreSQL for the database.",
+        "I implemented multiple functionalities and features on the web app, from the login page, dashboard(s), user management for administrators, calculation of delayed payments and interests, and many others. The new web application helped improve time management by approximately 30% thanks to its transfer to the digital world compared to its old native and slow paperwork. The transfer to the digital not only helped time management, but also helped enhance and inform decision-making for the bank.",
       ],
     },
     {
@@ -50,8 +50,11 @@ export const SITE_CONTENT: SiteContent = {
       position: "Full-stack Web Developer",
       startDate: "January 2025",
       endDate: "August 2025",
-      summary:
-        "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
+      summary: [
+        "Developed and integrated a web application for an online private coaching platform to help students and business owners on their journey to career or personal development.",
+        "Participated in all of the software development cycles, from its conception, development, to its deployment.",
+        "Developed and integrated web pages based on Figma mock-ups, working closely with the design team.",
+      ],
     },
     {
       company: "PSI Madagascar",
