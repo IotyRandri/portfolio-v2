@@ -5,7 +5,7 @@ export const SITE_CONFIG: SiteConfig = {
     "Ioty Randrianarivo — Full-stack Web & Mobile Developer, Cybersecurity Enthusiast",
   author: "Ioty Randrianarivo",
   description:
-    "Software Engineer currently based in Antananarivo, Madagascar, but open to international remote, on-site, or hybrid opportunities. I specialize in web application development particularly, although I can also handle mobile development as well as application maintenance.",
+    "Software Engineer currently based in Antananarivo, Madagascar, open to international positions, whether remote, on-site, or hybrid. I specialize in web application development, although mobile development, cybersecurity, and any Unix/Linux intrigue me as well.",
   lang: "en",
   siteLogo: "/alejandro-small.jpg",
   navLinks: [
@@ -43,18 +43,22 @@ export const SITE_CONTENT: SiteContent = {
       summary: [
         "I assisted and developed a web application for a bank, to help keep track of the loans they lend to their clients. From its conception, implementation, to its deployment and maintenance, I assisted and participated in all software development cycles. On the front-end, I used React.js, on the back-end Node.js and Prisma, and PostgreSQL for the database.",
         "I implemented multiple functionalities and features on the web app, from the login page, dashboard(s), user management for administrators, calculation of delayed payments and interests, and many others. The new web application helped improve time management by approximately 30% thanks to its transfer to the digital world compared to its old native and slow paperwork. The transfer to the digital not only helped time management, but also helped enhance and inform decision-making for the bank.",
+        "AGILE project management",
       ],
     },
     {
       company: "Pilgrimage SARLU",
-      position: "Full-stack Web Developer",
+      position: "Full-stack Remote Web Developer",
       startDate: "January 2025",
       endDate: "August 2025",
       summary: [
         "Developed and integrated a web application for an online private coaching platform to help students and business owners on their journey to career or personal development.",
         "Participated in all of the software development cycles, from its conception, development, to its deployment.",
         "Developed and integrated web pages based on Figma mock-ups, working closely with the design team.",
-        "Optimised the front-end of web pages for production environment, from project configurations to code-refactoring.",
+        "Optimised the front-end of web pages for production environment, from project configurations to code refactoring.",
+        "Developed and integrated REST APIs on the front-end, calling other REST APIs built on the back-end. Worked closely with the front-end, back-end, as well as the design team for maximum productivity. On the front-end, I used Next.js as well as React.js, Springboot for the back-end, and PostgreSQL for the database.",
+        "Remote work",
+        "AGILE project management",
       ],
     },
     {
@@ -63,9 +67,10 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "August 2023",
       endDate: "January 2024",
       summary: [
-        "Implemented advanced memory management and code optimization techniques, resulting in a reduction in application load time by 40% and a decrease in crashes by 25%. This significantly improved user experience and increased user retention by 20%.",
-        "I led a team of developers in building and integrating new features using Jetpack Android components such as LiveData and ViewModel. This enabled us to build scalable and maintainable applications, reducing the crash rate by 20% and speeding up the time to delivery of new features by 15%.",
-        "Integrated Google Pay for in-app purchases, resulting in a 35% increase in mobile transaction revenue. Additionally, implemented Firebase Analytics to gain insights into user behavior, enabling data-driven optimizations and a 30% increase in user retention.",
+        "Developed, conceived, and implemented two new web applications for the supervision of the transfer of intrants for a private health company.",
+        "From its conception, development, integration, to its deployment to a test environment, I assisted in almost all main software development cycles.",
+        "I integrated and developed many useful features for the company, going from login pages, user management, dashboards, to Google Maps localisation.",
+        "I used React.js for the front-end, PHP, as well as Node.js with Express for the back-end, and MySQL for the database.",
       ],
     },
   ],
