@@ -54,6 +54,7 @@ export const SITE_CONTENT: SiteContent = {
         "Developed and integrated a web application for an online private coaching platform to help students and business owners on their journey to career or personal development.",
         "Participated in all of the software development cycles, from its conception, development, to its deployment.",
         "Developed and integrated web pages based on Figma mock-ups, working closely with the design team.",
+        "Optimised the front-end of web pages for production environment, from project configurations to code-refactoring.",
       ],
     },
     {
