@@ -30,7 +30,7 @@ export const SITE_CONTENT: SiteContent = {
     specialty: "Web & Mobile Developer, Cybersecurity Enthusiast",
     summary:
       "Developer currently based in Antananarivo, Madagascar. \n" +
-      "I specialize in web application development, whether front-end or back-end, although I can also handle mobile development, as well as application maintenance and database management. \n" +
+      "I specialize in web application development, whether front-end or back-end, although I can also handle mobile development, as well as database creation,management or application maintenance. \n" +
       "I also have an interest in everything that is related to cybersecurity or related to Unix/Linux as well.",
     email: "randrianarivoioty@gmail.com",
   },
@@ -41,8 +41,8 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "April 2026",
       endDate: "Until Today",
       summary: [
-        "I assisted and developed a web application for a bank, to help keep track of the loans they lend to their clients. From its conception, implementation, to its deployment and maintenance, I assisted and participated in all software development cycles. On the front-end, I used React.js, on the back-end Node.js and Prisma, and PostgreSQL for the database.",
-        "I implemented multiple functionalities and features on the web app, from the login page, dashboard(s), user management for administrators, calculation of delayed payments and interests, and many others. The new web application helped improve time management by approximately 30% thanks to its transfer to the digital world compared to its old native and slow paperwork. The transfer to the digital not only helped time management, but also helped enhance and inform decision-making for the bank.",
+        "I assisted and am developing a web application for a bank, to help keep track of the loans they lend to their clients. From its conception, implementation, to its deployment and maintenance, I assisted, participated, and contributed in all software development cycles. On the front-end, I used React.js, on the back-end Node.js and Prisma, and PostgreSQL for the database.",
+        "I implemented / am implementing multiple functionalities and features on the web app, from the login page, dashboard(s), user management for administrators, calculation of delayed payments and interests, and many others. The new web application helped improve time management by approximately 30% thanks to its transfer to the digital compared to its old native and slow paperwork. The digital transfer not only helped with time management, but also helped enhance and inform decision-making for the bank.",
         "AGILE project management",
       ],
     },
@@ -56,7 +56,7 @@ export const SITE_CONTENT: SiteContent = {
         "Participated in all of the software development cycles, from its conception, development, to its deployment.",
         "Developed and integrated web pages based on Figma mock-ups, working closely with the design team.",
         "Optimised the front-end of web pages for production environment, from project configurations to code refactoring.",
-        "Developed and integrated REST APIs on the front-end, calling other REST APIs built on the back-end. Worked closely with the front-end, back-end, as well as the design team for maximum productivity. On the front-end, I used Next.js as well as React.js, Springboot for the back-end, and PostgreSQL for the database.",
+        "Developed and integrated REST APIs on the front-end, calling other back-end REST APIs. Worked closely with the front-end, back-end, as well as the design team for maximum productivity. On the front-end, I used Next.js as well as React.js, Springboot for the back-end, and PostgreSQL for the database.",
         "Remote work",
         "AGILE project management",
       ],
@@ -68,9 +68,9 @@ export const SITE_CONTENT: SiteContent = {
       endDate: "January 2024",
       summary: [
         "Developed, conceived, and implemented two new web applications for the supervision of the transfer of intrants for a private health company.",
-        "From its conception, development, integration, to its deployment to a test environment, I assisted in almost all main software development cycles.",
-        "I integrated and developed many useful features for the company, going from login pages, user management, dashboards, to Google Maps localisation.",
-        "I used React.js for the front-end, PHP, as well as Node.js with Express for the back-end, and MySQL for the database.",
+        "From its conception, development, integration, to its deployment to a test environment, I assisted, participated, and contributed in almost all main software development cycles.",
+        "I integrated and developed many useful features for the company through the web application, going from login pages, user management, dashboards, to Google Maps localisation and supervision.",
+        "On the front-end, I used React.js. On the back-end, I used PHP, as well as Node.js with Express. For the database, I used MySQL.",
       ],
     },
   ],
