@@ -103,7 +103,7 @@ export const SITE_CONTENT: SiteContent = {
 
       From concept to launch, I build user-friendly applications that solve real needs and push possibilities forward. My work spans landing pages to complex web apps, with performance, security, and scalability always in mind.
     `,
-    image: "/alejandro-big.jpg",
+    image: "/profile-pic.jpg",
   },
 };
 
