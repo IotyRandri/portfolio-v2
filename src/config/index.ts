@@ -7,7 +7,7 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "Software Engineer currently based in Antananarivo, Madagascar, open to international positions, whether remote, on-site, or hybrid. I specialize in web application development, although mobile development, cybersecurity, and any Unix/Linux intrigue me as well.",
   lang: "en",
-  siteLogo: "/alejandro-small.jpg",
+  siteLogo: "/profile-pic-small.jpg",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
