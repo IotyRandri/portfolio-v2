@@ -78,9 +78,9 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "SGI MADA",
+      name: "SGI MADA App",
       summary:
-        "A web app that lets its administrators access the core features of its bank, such as user management, loan management, and many others.",
+        "A web app that lets its administrators access the core features of its bank, from user management, dashboards, to loan management, and many much more.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/spotifu.png",
