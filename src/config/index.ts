@@ -20,6 +20,7 @@ export const SITE_CONFIG: SiteConfig = {
     },
     { text: "Github", href: "https://github.com/IotyRandri" },
     { text: "Gitlab", href: "https://gitlab.com/IotyRandri/" },
+    { text: "Whatsapp", href: "https://wa.me/261327810266/" },
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://astro-zen.vercel.app",
