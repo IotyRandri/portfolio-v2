@@ -78,8 +78,9 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "Spotifu Music",
-      summary: "A music streaming app that emulates Spotify's core features.",
+      name: "SGI MADA",
+      summary:
+        "A web app that lets its administrators access the core features of its bank, such as user management, loan management, and many others.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/spotifu.png",
