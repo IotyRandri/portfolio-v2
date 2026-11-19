@@ -39,7 +39,7 @@ export const SITE_CONTENT: SiteContent = {
   experience: [
     {
       company: "SGI Madagascar",
-      position: "Full-stack Web Developer",
+      position: "Full-stack Web Developer & Engineer",
       startDate: "April 2026",
       endDate: "Until Today",
       summary: [
@@ -50,7 +50,7 @@ export const SITE_CONTENT: SiteContent = {
     },
     {
       company: "Pilgrimage SARLU",
-      position: "Full-stack Remote Web Developer",
+      position: "Full-stack Remote Web Developer & Engineer",
       startDate: "January 2025",
       endDate: "August 2025",
       summary: [
@@ -65,7 +65,7 @@ export const SITE_CONTENT: SiteContent = {
     },
     {
       company: "PSI Madagascar",
-      position: "Full-stack Web Developer Intern",
+      position: "Full-stack Web Developer & Engineer Intern",
       startDate: "August 2023",
       endDate: "January 2024",
       summary: [
@@ -86,10 +86,12 @@ export const SITE_CONTENT: SiteContent = {
       image: "/spotifu.png",
     },
     {
-      name: "Shopp App",
-      summary: "An e-commerce platform that replicates Shopify's key features.",
+      name: "Migration API App",
+      summary:
+        "A web app that lets its users supervise the migration of medical supplies from one place to another, in remote locations around Madagascar. (No source code or preview available for this project due to its confidentiality)",
+      disabled: true,
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      linkSource: "/",
       image: "/shopify-clon.png",
     },
     {
